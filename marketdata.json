@@ -1,0 +1,56 @@
+[
+  {
+    "title": "고양이장난감 팝니다~",
+    "img1": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1554172438-267576c2c6da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    ],
+    "category": "장난감",
+    "animalkind": "고양이",
+    "goods_name": "고양이 낚시대",
+    "price": 20000,
+    "quality": "상",
+    "details": "짱 길고, 한 번 사용했습니다.",
+    "seller": "김하은",
+    "contact": "01012345678",
+    "heart": 5
+  },
+  {
+    "title": "강아지가 너무 좋아해요~",
+    "img1": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    ],
+    "category": "장난감",
+    "animalkind": "강아지",
+    "goods_name": "터그 장난감",
+    "price": 20000,
+    "quality": "상",
+    "details": "사놓고 한 번도 사용하지 않았습니다!!!",
+    "seller": "김규리",
+    "contact": "01012345678",
+    "heart": 5
+  },
+  {
+    "title": "앵무새장난감 가져가실 분♥",
+    "img1": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    ],
+    "category": "장난감",
+    "animalkind": "앵무새",
+    "goods_name": "앵무새 장갑",
+    "price": 20000,
+    "quality": "상",
+    "details": "앵무새가 정말 좋아합니다~~",
+    "contact": "01012345678",
+    "seller": "이유경",
+    "heart": 5
+  }
+]
